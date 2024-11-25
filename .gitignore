@@ -1,0 +1,45 @@
+# До .NET-проекту
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.app
+*.so
+*.dylib
+
+# Конфігураційні файли
+appsettings*.json
+*.env
+
+# Локальні IDE файли
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.swp
+*.sln.ide
+
+# Сервісні файли операційних систем
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Логи
+*.log
+
+# Інші тимчасові файли
+*.tmp
+*.bak
+*.old
+
+# NuGet пакети
+packages/
+*.nupkg
+
+# Папка з налаштуваннями Git
+.git/
+
+# Автоматично згенеровані файли Swagger
+swagger.json
