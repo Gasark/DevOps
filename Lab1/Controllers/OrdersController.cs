@@ -2,6 +2,7 @@
 using Lab1.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Lab1.DTOs;
 
 namespace Lab1.Controllers;
 
@@ -17,13 +18,25 @@ public class OrdersController : ControllerBase
     }
 
     [HttpGet]
-    public async Task<IActionResult> GetAllOrders()
+    public async Task<IActionResult> GetOrders()
     {
         var orders = await _context.Orders
-            .Include(o => o.User)
-            .Include(o => o.OrderDetails)
-                .ThenInclude(od => od.Product)
-            .ToListAsync();
+        .Include(o => o.User) // Підтягуємо користувача
+        .Include(o => o.OrderDetails)
+        .ThenInclude(od => od.Product) // Підтягуємо продукти
+        .Select(o => new OrderDto
+        {
+            Id = o.Id,
+            OrderDate = o.OrderDate,
+            UserId = o.User.Id,
+            //OrderDetails = o.OrderDetails.Select(od => new OrderDetailDto
+            //{
+            //    ProductId = od.ProductId,
+            //    Quantity = od.Quantity
+            //}).ToList()
+        })
+        .ToListAsync();
+
         return Ok(orders);
     }
 
@@ -33,34 +46,60 @@ public class OrdersController : ControllerBase
         var order = await _context.Orders
             .Include(o => o.User)
             .Include(o => o.OrderDetails)
-                .ThenInclude(od => od.Product)
-            .FirstOrDefaultAsync(o => o.Id == id);
+            .ThenInclude(od => od.Product)
+            .Where(o => o.Id == id)
+            .Select(o => new OrderDto
+            {
+                Id = o.Id,
+                OrderDate = o.OrderDate,
+                UserId = o.User.Id,
+            })
+            .FirstOrDefaultAsync();
 
-        if (order == null)
-            return NotFound();
+        if (order == null) return NotFound();
+
         return Ok(order);
     }
 
     [HttpPost]
-    public async Task<IActionResult> CreateOrder(Order order)
+    public async Task<IActionResult> CreateOrder([FromBody] OrderCreateDto orderDto)
     {
-        var user = await _context.Users.FindAsync(order.UserId);
-        if (user == null)
-            return BadRequest("Invalid UserId");
+        if (!ModelState.IsValid)
+            return BadRequest(ModelState);
+
+        var order = new Order
+        {
+            OrderDate = orderDto.OrderDate,
+            UserId = orderDto.UserId
+        };
 
         _context.Orders.Add(order);
         await _context.SaveChangesAsync();
-        return CreatedAtAction(nameof(GetOrderById), new { id = order.Id }, order);
+
+        return CreatedAtAction(nameof(GetOrderById), new { id = order.Id }, new OrderDto
+        {
+            Id = order.Id,
+            OrderDate = order.OrderDate,
+            UserId = order.UserId
+        });
     }
 
     [HttpPut("{id}")]
-    public async Task<IActionResult> UpdateOrder(int id, Order order)
+    public async Task<IActionResult> UpdateOrder(int id, [FromBody] OrderUpdateDto orderDto)
     {
-        if (id != order.Id)
-            return BadRequest();
+        if (id != orderDto.Id)
+            return BadRequest("Order ID in the URL does not match the ID in the request body.");
+
+        var order = await _context.Orders.FindAsync(id);
+        if (order == null)
+            return NotFound();
+
+        order.OrderDate = orderDto.OrderDate;
+        order.UserId = orderDto.UserId;
 
         _context.Entry(order).State = EntityState.Modified;
         await _context.SaveChangesAsync();
+
         return NoContent();
     }
 
@@ -73,6 +112,7 @@ public class OrdersController : ControllerBase
 
         _context.Orders.Remove(order);
         await _context.SaveChangesAsync();
+
         return NoContent();
     }
 }

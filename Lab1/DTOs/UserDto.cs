@@ -1,11 +1,9 @@
-﻿namespace Lab1.Models
+﻿namespace Lab1.DTOs
 {
-    public class User
+    public class UserDto
     {
         public int Id { get; set; }
         public string Name { get; set; }
         public string Email { get; set; }
-
-        public ICollection<Order> Orders { get; set; }
     }
 }

@@ -4,12 +4,8 @@
     {
         public int Id { get; set; }
         public DateTime OrderDate { get; set; }
-
-        // Foreign key
         public int UserId { get; set; }
-
-        // Navigation properties
-        public User User { get; set; } = null!;
-        public List<OrderDetail> OrderDetails { get; set; } = new();
+        public User User { get; set; } 
+        public ICollection<OrderDetail> OrderDetails { get; set; }
     }
 }

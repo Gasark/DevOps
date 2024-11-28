@@ -3,6 +3,86 @@
   "WorkspaceRootPath": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\migrations\\20241125013030_newmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\migrations\\20241125013030_newmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\migrations\\20241125015426_newcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\migrations\\20241125015426_newcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\migrations\\20241125010654_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\migrations\\20241125010654_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\migrations\\20241128182328_finalupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\migrations\\20241128182328_finalupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\dtos\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\dtos\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\dtos\\createorderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\dtos\\createorderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\info.dgml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab1\\info.dgml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\lab1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\lab1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,44 +91,24 @@
       "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\migrations\\20241125015426_newcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\migrations\\20241125015426_newcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\dtos\\orderupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\dtos\\orderupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\dtos\\updateorderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\dtos\\updateorderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\dtos\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\dtos\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Migrations\\20241125003829_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,24 +126,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab1\\Migrations\\20241124232727_AllowNullableRoleId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\lab1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\lab1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Migrations\\20241124175957_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab1\\Migrations\\20241124175957_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\lab1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\lab1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\migrations\\20241125013030_newmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\migrations\\20241125013030_newmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|d:\\khai\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\devops\\lab1\\lab1\\migrations\\20241125010654_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A58A37D-11B2-4E10-A4C1-7D880C0D4957}|Lab1\\Lab1.csproj|solutionrelative:lab1\\migrations\\20241125010654_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -93,71 +141,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "OrderDetailsController.cs",
-              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Controllers\\OrderDetailsController.cs",
-              "RelativeDocumentMoniker": "Lab1\\Controllers\\OrderDetailsController.cs",
-              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Controllers\\OrderDetailsController.cs",
-              "RelativeToolTip": "Lab1\\Controllers\\OrderDetailsController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowAcAAAAPAAAAAAAAAA==",
+              "Title": "20241125010654_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Migrations\\20241125010654_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Lab1\\Migrations\\20241125010654_InitialCreate.cs",
+              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Migrations\\20241125010654_InitialCreate.cs",
+              "RelativeToolTip": "Lab1\\Migrations\\20241125010654_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T01:46:58.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Lab1\\Controllers\\UsersController.cs",
-              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Lab1\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwD4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T01:14:46.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Lab1\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Lab1\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T01:45:27.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "Lab1\\Controllers\\OrdersController.cs",
-              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "Lab1\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAwwE4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T01:46:18.14Z",
+              "WhenOpened": "2024-11-25T01:06:55.065Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Lab1\\Models\\User.cs",
+              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Models\\User.cs",
+              "RelativeToolTip": "Lab1\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:20:11.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab1\\appsettings.json",
+              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\appsettings.json",
+              "RelativeToolTip": "Lab1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T16:46:15.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab1\\Program.cs",
+              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Program.cs",
+              "RelativeToolTip": "Lab1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:11:43.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241125013030_NewModels.cs",
+              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Migrations\\20241125013030_NewModels.cs",
+              "RelativeDocumentMoniker": "Lab1\\Migrations\\20241125013030_NewModels.cs",
+              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Migrations\\20241125013030_NewModels.cs",
+              "RelativeToolTip": "Lab1\\Migrations\\20241125013030_NewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T01:30:30.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "20241125015426_NewControllers.cs",
               "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Migrations\\20241125015426_NewControllers.cs",
               "RelativeDocumentMoniker": "Lab1\\Migrations\\20241125015426_NewControllers.cs",
@@ -170,39 +223,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrderDetail.cs",
-              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Models\\OrderDetail.cs",
-              "RelativeDocumentMoniker": "Lab1\\Models\\OrderDetail.cs",
-              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Models\\OrderDetail.cs",
-              "RelativeToolTip": "Lab1\\Models\\OrderDetail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T01:27:54.045Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Lab1\\Models\\User.cs",
-              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Models\\User.cs",
-              "RelativeToolTip": "Lab1\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "20241128182328_FinalUpdate.cs",
+              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Migrations\\20241128182328_FinalUpdate.cs",
+              "RelativeDocumentMoniker": "Lab1\\Migrations\\20241128182328_FinalUpdate.cs",
+              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Migrations\\20241128182328_FinalUpdate.cs",
+              "RelativeToolTip": "Lab1\\Migrations\\20241128182328_FinalUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T17:20:11.365Z"
+              "WhenOpened": "2024-11-28T18:23:29.046Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Lab1\\Models\\Product.cs",
-              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Models\\Product.cs",
-              "RelativeToolTip": "Lab1\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Lab1\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Lab1\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T01:27:01.287Z"
+              "WhenOpened": "2024-11-25T22:24:47.627Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -214,71 +257,250 @@
               "RelativeToolTip": "Lab1\\Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T01:27:31.984Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "20241125013030_NewModels.cs",
-              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Migrations\\20241125013030_NewModels.cs",
-              "RelativeDocumentMoniker": "Lab1\\Migrations\\20241125013030_NewModels.cs",
-              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Migrations\\20241125013030_NewModels.cs",
-              "RelativeToolTip": "Lab1\\Migrations\\20241125013030_NewModels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T01:30:30.56Z"
+              "WhenOpened": "2024-11-25T01:27:31.984Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Lab1\\Models\\OrderDetail.cs",
+              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Lab1\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T01:27:54.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Lab1\\Models\\Product.cs",
+              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Models\\Product.cs",
+              "RelativeToolTip": "Lab1\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T01:27:01.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "Lab1\\DTOs\\UserDto.cs",
+              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "Lab1\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:04:18.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\DTOs\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Lab1\\DTOs\\OrderDto.cs",
+              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\DTOs\\OrderDto.cs",
+              "RelativeToolTip": "Lab1\\DTOs\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:58:26.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderCreateDto.cs",
+              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\DTOs\\OrderCreateDto.cs",
+              "RelativeDocumentMoniker": "Lab1\\DTOs\\OrderCreateDto.cs",
+              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\DTOs\\OrderCreateDto.cs",
+              "RelativeToolTip": "Lab1\\DTOs\\OrderCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:10:32.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateOrderDetailDto.cs",
+              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\DTOs\\CreateOrderDetailDto.cs",
+              "RelativeDocumentMoniker": "Lab1\\DTOs\\CreateOrderDetailDto.cs",
+              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\DTOs\\CreateOrderDetailDto.cs",
+              "RelativeToolTip": "Lab1\\DTOs\\CreateOrderDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:11:38.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Lab1\\appsettings.Development.json",
+              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\appsettings.Development.json",
+              "RelativeToolTip": "Lab1\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T22:16:44.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Lab1\\Data\\ApplicationDbContext.cs",
               "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Lab1\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T17:22:11.023Z"
+              "WhenOpened": "2024-11-24T17:22:11.023Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\appsettings.json",
-              "RelativeDocumentMoniker": "Lab1\\appsettings.json",
-              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\appsettings.json",
-              "RelativeToolTip": "Lab1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-24T16:46:15.338Z"
+              "DocumentIndex": 17,
+              "Title": "info.dgml",
+              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\info.dgml",
+              "RelativeDocumentMoniker": "Lab1\\info.dgml",
+              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\info.dgml",
+              "RelativeToolTip": "Lab1\\info.dgml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-28T18:39:10.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Lab1.http",
+              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Lab1.http",
+              "RelativeDocumentMoniker": "Lab1\\Lab1.http",
+              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Lab1.http",
+              "RelativeToolTip": "Lab1\\Lab1.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-24T18:42:54.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1455275843:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "20241125010654_InitialCreate.cs",
-              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Migrations\\20241125010654_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Lab1\\Migrations\\20241125010654_InitialCreate.cs",
-              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Migrations\\20241125010654_InitialCreate.cs",
-              "RelativeToolTip": "Lab1\\Migrations\\20241125010654_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Lab1\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Lab1\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T01:06:55.065Z"
+              "WhenOpened": "2024-11-25T01:14:46.708Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Program.cs",
-              "RelativeDocumentMoniker": "Lab1\\Program.cs",
-              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Program.cs",
-              "RelativeToolTip": "Lab1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "OrderDetailsController.cs",
+              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Controllers\\OrderDetailsController.cs",
+              "RelativeDocumentMoniker": "Lab1\\Controllers\\OrderDetailsController.cs",
+              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Controllers\\OrderDetailsController.cs",
+              "RelativeToolTip": "Lab1\\Controllers\\OrderDetailsController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T17:11:43.607Z"
+              "WhenOpened": "2024-11-25T01:46:58.842Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Lab1\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Lab1\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAcwGcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T01:45:27.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Lab1\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Lab1\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T01:46:18.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderUpdateDto.cs",
+              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\DTOs\\OrderUpdateDto.cs",
+              "RelativeDocumentMoniker": "Lab1\\DTOs\\OrderUpdateDto.cs",
+              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\DTOs\\OrderUpdateDto.cs",
+              "RelativeToolTip": "Lab1\\DTOs\\OrderUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:08:22.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateOrderDetailDto.cs",
+              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\DTOs\\UpdateOrderDetailDto.cs",
+              "RelativeDocumentMoniker": "Lab1\\DTOs\\UpdateOrderDetailDto.cs",
+              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\DTOs\\UpdateOrderDetailDto.cs",
+              "RelativeToolTip": "Lab1\\DTOs\\UpdateOrderDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:29:46.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderDetailDto.cs",
+              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\DTOs\\OrderDetailDto.cs",
+              "RelativeDocumentMoniker": "Lab1\\DTOs\\OrderDetailDto.cs",
+              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\DTOs\\OrderDetailDto.cs",
+              "RelativeToolTip": "Lab1\\DTOs\\OrderDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T22:07:49.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Lab1\\DTOs\\ProductDto.cs",
+              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "Lab1\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:24:56.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "20241125003829_InitialCreate.cs",
               "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Migrations\\20241125003829_InitialCreate.cs",
               "RelativeDocumentMoniker": "Lab1\\Migrations\\20241125003829_InitialCreate.cs",
@@ -290,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 28,
               "Title": "20241125002532_SyncModelWithDatabase.cs",
               "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Migrations\\20241125002532_SyncModelWithDatabase.cs",
               "RelativeDocumentMoniker": "Lab1\\Migrations\\20241125002532_SyncModelWithDatabase.cs",
@@ -302,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 29,
               "Title": "jrdllt3g..sql",
               "DocumentMoniker": "C:\\Users\\mrdi1\\AppData\\Local\\Temp\\jrdllt3g..sql",
               "ToolTip": "C:\\Users\\mrdi1\\AppData\\Local\\Temp\\jrdllt3g..sql",
@@ -311,7 +533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 30,
               "Title": "20241124232727_AllowNullableRoleId.cs",
               "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Migrations\\20241124232727_AllowNullableRoleId.cs",
               "RelativeDocumentMoniker": "Lab1\\Migrations\\20241124232727_AllowNullableRoleId.cs",
@@ -323,19 +545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Lab1.http",
-              "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Lab1.http",
-              "RelativeDocumentMoniker": "Lab1\\Lab1.http",
-              "ToolTip": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Lab1.http",
-              "RelativeToolTip": "Lab1\\Lab1.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-11-24T18:42:54.223Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 31,
               "Title": "20241124175957_InitialCreate.cs",
               "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Migrations\\20241124175957_InitialCreate.cs",
               "RelativeDocumentMoniker": "Lab1\\Migrations\\20241124175957_InitialCreate.cs",
@@ -346,7 +556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 32,
               "Title": "Lab1.csproj",
               "DocumentMoniker": "D:\\Khai\\\u041C\u0410\u0413\u0418\u0421\u0422\u0420\u0410\u0422\u0423\u0420\u0410\\DevOps\\Lab1\\Lab1\\Lab1.csproj",
               "RelativeDocumentMoniker": "Lab1\\Lab1.csproj",
@@ -354,7 +564,8 @@
               "RelativeToolTip": "Lab1\\Lab1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-24T17:59:36.666Z"
+              "WhenOpened": "2024-11-24T17:59:36.666Z",
+              "EditorCaption": ""
             }
           ]
         }

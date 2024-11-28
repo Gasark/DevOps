@@ -9,7 +9,6 @@ obj/
 *.dylib
 
 # Конфігураційні файли
-appsettings*.json
 *.env
 
 # Локальні IDE файли

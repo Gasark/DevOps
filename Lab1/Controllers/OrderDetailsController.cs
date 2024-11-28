@@ -1,4 +1,5 @@
 ﻿using Lab1.Data;
+using Lab1.DTOs;
 using Lab1.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -17,58 +18,92 @@ public class OrderDetailsController : ControllerBase
     }
 
     [HttpGet]
-    public async Task<IActionResult> GetAllOrderDetails()
+    public async Task<IActionResult> GetOrderDetails()
     {
-        var details = await _context.OrderDetails
-            .Include(od => od.Order)
+        var orderDetails = await _context.OrderDetails
             .Include(od => od.Product)
+            .Include(od => od.Order)
+            .ThenInclude(o => o.User)
+            .Select(od => new OrderDetailDto
+            {
+                OrderId = od.OrderId,
+                ProductId = od.ProductId,
+                Quantity = od.Quantity
+            })
             .ToListAsync();
-        return Ok(details);
+
+        return Ok(orderDetails);
     }
 
-    [HttpGet("by-order/{orderId}")]
-    public async Task<IActionResult> GetOrderDetailsByOrderId(int orderId)
+    [HttpGet("{orderId}")]
+    public async Task<IActionResult> GetOrderDetailById(int orderId)
     {
-        var details = await _context.OrderDetails
+        var orderDetail = await _context.OrderDetails
             .Include(od => od.Product)
+            .Include(od => od.Order)
+            .ThenInclude(o => o.User)
             .Where(od => od.OrderId == orderId)
+            .Select(od => new OrderDetailDto
+            {
+                OrderId = od.OrderId,
+                ProductId = od.ProductId,
+                Quantity = od.Quantity
+            })
             .ToListAsync();
 
-        if (!details.Any())
-            return NotFound($"No order details found for OrderId {orderId}");
+        if (orderDetail == null)
+            return NotFound($"Order detail with ID {orderId} not found.");
 
-        return Ok(details);
+        return Ok(orderDetail);
     }
 
     [HttpPost]
-    public async Task<IActionResult> CreateOrderDetail(OrderDetail detail)
+    public async Task<IActionResult> CreateOrderDetail([FromBody] CreateOrderDetailDto dto)
     {
-        var order = await _context.Orders.FindAsync(detail.OrderId);
-        var product = await _context.Products.FindAsync(detail.ProductId);
+        var order = await _context.Orders
+            .Include(o => o.User)
+            .FirstOrDefaultAsync(o => o.Id == dto.OrderId);
 
-        if (order == null || product == null)
-            return BadRequest("Invalid OrderId or ProductId");
+        if (order == null)
+            return BadRequest($"Order with Id {dto.OrderId} does not exist.");
 
-        _context.OrderDetails.Add(detail);
+        var product = await _context.Products
+            .FirstOrDefaultAsync(p => p.Id == dto.ProductId);
+
+        if (product == null)
+            return BadRequest($"Product with Id {dto.ProductId} does not exist.");
+
+        var newOrderDetail = new OrderDetail
+        {
+            OrderId = order.Id,
+            ProductId = product.Id,
+            Quantity = dto.Quantity
+        };
+
+        _context.OrderDetails.Add(newOrderDetail);
         await _context.SaveChangesAsync();
-        return Ok(detail);
+
+        return Ok(new { Message = "Order detail created successfully." });
     }
 
+
     [HttpPut("{orderId}/{productId}")]
-    public async Task<IActionResult> UpdateOrderDetail(int orderId, int productId, OrderDetail detail)
+    public async Task<IActionResult> UpdateOrderDetail(int orderId, int productId, [FromBody] UpdateOrderDetailDto dto)
     {
-        if (orderId != detail.OrderId || productId != detail.ProductId)
-            return BadRequest();
+        if (orderId != dto.OrderId || productId != dto.ProductId)
+            return BadRequest("Order or Product ID in the URL does not match the request body.");
 
         var existingDetail = await _context.OrderDetails
             .FirstOrDefaultAsync(od => od.OrderId == orderId && od.ProductId == productId);
 
         if (existingDetail == null)
-            return NotFound();
+            return NotFound($"Order detail for OrderId {orderId} and ProductId {productId} not found.");
 
-        existingDetail.Quantity = detail.Quantity;
+        existingDetail.Quantity = dto.Quantity;
 
+        _context.Entry(existingDetail).State = EntityState.Modified;
         await _context.SaveChangesAsync();
+
         return NoContent();
     }
 
@@ -79,10 +114,11 @@ public class OrderDetailsController : ControllerBase
             .FirstOrDefaultAsync(od => od.OrderId == orderId && od.ProductId == productId);
 
         if (detail == null)
-            return NotFound();
+            return NotFound($"Order detail for OrderId {orderId} and ProductId {productId} not found.");
 
         _context.OrderDetails.Remove(detail);
         await _context.SaveChangesAsync();
+
         return NoContent();
     }
 }
