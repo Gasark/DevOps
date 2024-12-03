@@ -1,0 +1,53 @@
+name: Lab2_Tests_Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-validate:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v2
+
+    - name: Setup .NET Core SDK
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: '8.0.x'
+
+    - name: Restore Dependencies
+      run: dotnet restore
+
+    - name: Build Application
+      run: dotnet build --configuration Release --no-restore
+
+    - name: Execute Unit Tests
+      run: dotnet test --configuration Release --no-build --verbosity normal
+
+  dockerize-and-push:
+    runs-on: ubuntu-latest
+    needs: build-and-validate
+
+    steps:
+    - name: Checkout Code for Dockerization
+      uses: actions/checkout@v2
+
+    - name: Setup Docker Build Environment
+      uses: docker/setup-buildx-action@v1
+
+    - name: Docker Hub Authentication
+      uses: docker/login-action@v1
+      with:
+        username: ${{ secrets.DOCKER_USERNAME }}
+        password: ${{ secrets.DOCKER_PASSWORD }}
+
+    - name: Build and Publish Docker Image
+      uses: docker/build-push-action@v2
+      with:
+        context: .
+        file: ./Dockerfile
+        push: true
+        tags: ${{ secrets.DOCKER_USERNAME }}/lab1:latest
