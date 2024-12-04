@@ -1,9 +1,7 @@
 name: Lab2_Tests_Deploy
 
 on:
-  push:
-    branches:
-      - main
+   workflow_dispatch:
 
 jobs:
   build-and-validate:
