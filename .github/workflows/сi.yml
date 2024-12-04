@@ -22,7 +22,7 @@ jobs:
       run: dotnet restore
 
     - name: Run code formatter
-      run: dotnet format --check
+      run: dotnet format Lab1.sln --check
 
     - name: Build Application
       run: dotnet build --configuration Release --no-restore
